@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Nelson Chinedu</h3>
 <p align="center">
-  <a href="https://nelsondev.netlify.app">Website</a> •
+  <a href="https://nelsondev.netlify.app" target="_blank">Website</a> •
   <a href="https://twitter.com/iamCodeBurst">Twitter</a>
 </p>
 
