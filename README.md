@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Nelson Chinedu</h3>
 <p align="center">
   <a href="https://nelsondev.netlify.app" target="_blank">Website</a> •
-  <a href="https://twitter.com/iamCodeBurst">Twitter</a>
+  <a href="https://twitter.com/iamNelsonDev">Twitter</a>
 </p>
 
 
@@ -11,7 +11,7 @@
 
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: ReactJs, NextJS
-- 📫 How to reach me: [@iamCodeBurst](https://twitter.com/iamCodeBurst)
+- 📫 How to reach me: [@iamNelsonDev](https://twitter.com/iamNelsonDev)
 - ⚡ Fun fact: I enjoy playing console games with friends and family and also a cyclist
 
 <!--
