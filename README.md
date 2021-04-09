@@ -38,7 +38,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
-### Latest Blog Posts
+### 📚 Latest Blog Posts
 - [Understanding props in Reactjs](https://medium.com/fbdevclagos/understanding-props-in-reactjs-ccbec7833457)
 - [How to send contact form data to an email address without server side language](https://medium.com/@egwuchinedu69/how-to-send-contact-form-data-to-an-email-address-without-server-side-language-adeec579c586)
 - [How to update a local forked repository from the original repository](https://medium.com/fbdevclagos/how-to-update-a-local-forked-repository-from-the-original-repository-1ed3ec29f0dc)
