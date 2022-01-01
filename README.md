@@ -6,7 +6,7 @@
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: ReactJs, NextJS
 - 🌱 I’m currently exploring new things in technology
-- 🌐 [Portfolio Website](https://nelsondev.netlify.app)
+- 🌐 [Portfolio Website](https://www.nelsonchinedu.com)
 - ⚡ Fun fact: I enjoy playing console games with friends and family and also a cyclist
 
 ---
