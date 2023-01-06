@@ -7,7 +7,7 @@ I am looking for some open source project to contribute to and my skillset can b
 
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: ReactJs, NextJS
-- 🌱 I’m currently exploring new things in technology
+- 🌱 I’m currently learning Python(Django)
 - 🌐 [Portfolio Website](https://www.nelsonchinedu.com)
 - ⚡ Fun fact: I enjoy playing console games with friends and family and also a cyclist
 
