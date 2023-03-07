@@ -46,6 +46,7 @@ I am looking for some open source project to contribute to and my skillset can b
 
 ---
 ### 📚 Latest Blog Posts
+- [How To Build a Responsive Web-App with Material-UI](https://medium.com/@egwuchinedu69/how-to-build-a-responsive-web-app-with-material-ui-fd6b9f0cdce6)
 - [Understanding props in Reactjs](https://medium.com/fbdevclagos/understanding-props-in-reactjs-ccbec7833457)
 - [How to send contact form data to an email address without server side language](https://medium.com/@egwuchinedu69/how-to-send-contact-form-data-to-an-email-address-without-server-side-language-adeec579c586)
 - [How to update a local forked repository from the original repository](https://medium.com/fbdevclagos/how-to-update-a-local-forked-repository-from-the-original-repository-1ed3ec29f0dc)
